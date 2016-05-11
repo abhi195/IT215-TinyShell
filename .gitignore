@@ -1,0 +1,13 @@
+# Compiled Source #
+
+*.o
+*.exe
+*.so
+myint
+myspin
+mysplit
+mystop
+tsh
+tshref
+tsh.c~
+Makefile~
